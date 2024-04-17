@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FediHa
 - 👀 I’m interested in Games and Music
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on nothing (yet!)
 - 📫 How to reach me ...
 
